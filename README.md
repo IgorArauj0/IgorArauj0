@@ -1,4 +1,4 @@
-### Hello, I'm Igor Araújo. Professor and Fullstack Developer. 🖐️
+### Hello, I'm Igor Araújo. Teacher and Fullstack Developer. 🖐️
 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_igaoo?igsh=aTh4c3pzb282b3d5&utm_source=qr)
