@@ -1,4 +1,4 @@
-### Olá, Eu sou Igor Araújo. Professor e Desenvolvedor Fullstack. 🖐️
+### Hello, I'm Igor Araújo. Professor and Fullstack Developer. 🖐️
 
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/o_igaoo?igsh=aTh4c3pzb282b3d5&utm_source=qr)
@@ -8,7 +8,7 @@
 ![IgorArauj0 GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorArauj0&show_icons=true&theme=dracula)
 
 
-## Tecnologias que utilizo no dia a dia.
+## Technologies that I use in my daily life.
 
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="Imagem texto" align="center">
@@ -22,4 +22,4 @@
 </div> <br/>
 
 
-Professor de mais de 60 alunos ao todo, buscando ensinar e aprender dentro de sala de aula sobre esse mundo fascinante de Desenvolvimento, colocando em prática experiências aprendidas no mundo corporativo e acadêmico. Trazendo novidades e Projetos que estejam alinhados com o mercado atual.
+Teacher of over 60 students, seeking to teach and learn in the classroom about this fascinating world of Development, putting into practice experiences acquired in the corporate and academic world. Bringing new ideas and projects aligned with the current market.
